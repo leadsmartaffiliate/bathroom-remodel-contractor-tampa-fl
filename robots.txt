@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bathroom-remodel-contractor-tampa-fl.netlify.app/sitemap.xml
